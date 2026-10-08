@@ -51,8 +51,10 @@ Then `/mcp` inside `claude` to sign in.
   `git merge wip/point-in-time-universe` on main when happy.
 - **customer-satisfaction-mlops**: the Mac had a stray `†††` typed into
   `src/data_cleaning.py` (a syntax error). Not committed — the clone is clean.
-- **major-project-b3**: read `NOTES.md` first. DynamoRIO isn't in the repo;
-  the download command is there. Needs x86-64.
+- **major-project-b3**: read `README.md` first; it is the runbook for the lab
+  setup and the laptop setup. Needs x86-64. `~/Research/Tools` (DynamoRIO and a
+  PMDK build without Valgrind) is not carried; README path B rebuilds it in
+  minutes.
 - **Not carried**: chat history (transcripts hard-code `/Users/abhijitkar`
   paths), Python venvs (rebuild per project), and DynamoRIO.
 

@@ -16,3 +16,4 @@
 - [Always push](always-push.md) — commit then push immediately, no asking (normal push only, never force)
 - [Major Project B3](major-project-b3.md) — field-level trace capture for WTSC/WTBC gap; private repo major-project-b3, NOTES.md is the handoff
 - [Claude handoff repo](claude-handoff.md) — private repo that restores memory/config and clones every project into the same layout on a new machine
+- [Keep major-project-b3 docs updated](keep-docs-updated.md) — every change updates README runbook/work log + DECISIONS/REPORT/NOTES; keep the lab-machine path runnable
