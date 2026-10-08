@@ -1,0 +1,16 @@
+{
+  "skillListingBudgetFraction": 0.05,
+  "enabledPlugins": {
+    "ponytail@ponytail": true,
+    "mattpocock-skills@claude-plugins-official": true
+  },
+  "extraKnownMarketplaces": {
+    "ponytail": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/DietrichGebert/ponytail.git"
+      }
+    }
+  },
+  "agentPushNotifEnabled": true
+}
