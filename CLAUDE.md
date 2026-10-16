@@ -21,3 +21,7 @@ Before starting a task, check the skill list and invoke the best match first. Wh
 - `caveman` only when I say "caveman" or "be brief".
 - Caveman Cloud skills (`caveman-setup`, `-discover`, `-manage`, `-optimize`, `-evidence-review`, `-learn`) only if I mention Caveman Cloud.
 - Study and course notes go in Obsidian (`~/Documents/life`), not artifacts.
+
+Installed Knowledge Graph: v1.3.1+91ed6cf
+
+Use version+commit to compare source repo, installed copy, and host project state
